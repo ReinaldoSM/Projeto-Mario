@@ -16,6 +16,6 @@ Foi uma experiência incrível para entender como essas tecnologias trabalham ju
 
 ---
 
-## 🖼️ Visualização do projeto
 
-![Imagem do site](assets/screenshot-mario.png)
+
+<img src="mario.png" alt="Descrição da imagem" width="150" />
