@@ -18,4 +18,4 @@ Foi uma experiência incrível para entender como essas tecnologias trabalham ju
 
 ## 🖼️ Visualização do projeto
 
-![Imagem do site](assets/screenshot.png)
+![Imagem do site](assets/screenshot-mario.png)
